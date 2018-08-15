@@ -1,8 +1,8 @@
 {
-  "homepage": "http://shrayanshjain9.github.io/facerecognitionbrain",
   "name": "facerecognitionbrain",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://shrayanshjain9.github.io/facerecognitionbrain",
   "dependencies": {
     "clarifai": "^2.8.0",
     "react": "^16.4.2",
